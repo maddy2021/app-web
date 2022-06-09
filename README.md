@@ -1,2 +1,2 @@
 # app-web
-next js dashboard
+A repository for dashboard react application
